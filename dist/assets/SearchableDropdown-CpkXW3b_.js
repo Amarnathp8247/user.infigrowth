@@ -1,0 +1,1 @@
+import{j as t,bm as p,W as x}from"./index-D1uGZ479.js";function b({shouldBeDisabled:s=!1,options:o,placeholder:a,value:n,onChange:r,noOptionText:d,type:m,width:l}){return t.jsx(p,{size:"small",disablePortal:!0,disabled:s,value:n,onChange:(e,i)=>r(i||""),options:o,renderInput:e=>t.jsx(x,{...e,placeholder:a}),sx:{width:l}})}export{b as S};
